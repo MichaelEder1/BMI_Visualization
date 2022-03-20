@@ -1,4 +1,4 @@
-# bmi_visualization
+# BMI Visualization
 
 ## Project setup
 ```
