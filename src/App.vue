@@ -1,6 +1,6 @@
 <template>
-  <!-- assumption: we will get the petName from a form and pass the already calculated bmi to this component -->
-  <BmiVisualization petName="Luna" bmiValue="55.48"/>
+    <!-- assumption: we will get the petName from a form and pass it together with the already calculated bmi to this component -->
+  <BmiVisualization petName="Luna" bmiValue="89.28"/>
 </template>
 
 <script>
