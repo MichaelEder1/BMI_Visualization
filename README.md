@@ -1,5 +1,8 @@
 # BMI Visualization
 
+![BMI-Visualization](https://github.com/MichaelEder1/BMI_Visualization/blob/main/BMI_Visualization.png)
+
+
 ## Project setup
 ```
 npm install
